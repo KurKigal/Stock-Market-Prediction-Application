@@ -22,7 +22,7 @@ A web application that scrapes stock market data, analyzes trends, and provides 
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/stock-predictor.git](https://github.com/KurKigal/Stock-Market-Prediction-Application.git)
+   git clone https://github.com/KurKigal/Stock-Market-Prediction-Application.git
    cd Stock-Market-Prediction-Application
    ```
 
