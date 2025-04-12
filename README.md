@@ -14,7 +14,7 @@ A web application that scrapes stock market data, analyzes trends, and provides 
 
 ### Prerequisites
 
-- Python 3.7 or higher  
+- Python 3.7 or higher  (3.8 is recommended)
 - Node.js 14 or higher (for frontend development)  
 
 ### Installation Steps
